@@ -1,0 +1,32 @@
+img{
+    inline-size: 30%;
+}
+body{
+    background: conic-gradient(#7A7FBA, #11C37C);
+}
+#de{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+h1{
+    font-style: italic;
+}
+h4{
+    font-weight: bold;
+}
+#camera{
+    height: 500;
+    width: 600;
+    border-color: white;
+    border-width: 2px;
+    border-style: ridge;
+}
+#result1,#result2,#result3{
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+    
+}
+img:hover{
+    border-radius: 140px;
+}
